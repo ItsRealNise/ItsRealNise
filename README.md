@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hi Everyone my name is YaN i'm from Indonesian
 
-<!--
-**ItsRealNise/ItsRealNise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-About Me
+###About Me
 
 - My Team: HazardTeam
 - I new in programming
