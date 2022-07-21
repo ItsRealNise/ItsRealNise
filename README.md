@@ -6,6 +6,8 @@ Hi There 👋, I'm ItsRealNise, You Can Call Me YaN
 
 - 🔭 I’m currently working on **PocketMine Plugins**
 
+- 📄 I'm currently learning about HTML, CSS
+
 - 📫 How to reach me **yankurniawan60@gmail.com**
 
 ## 🚶 Visit Me
