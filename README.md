@@ -12,7 +12,7 @@ Hi There 👋, I'm ItsRealNise, You Can Call Me YaN
 [![Youtube](https://img.shields.io/badge/Youtube-FF0014?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCG64Lu7JYZO8q-4SQ8CTEjQ)
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/ItsRealNise">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ItsRealNise&count_private=true&show_icons=true&hide_border=false&custom_title=MulqiGaming64%20Github%20Stats&include_all_commits=true&hide=issues&theme=tokyonight" alt="MulqiGaming64 GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ItsRealNise&count_private=true&show_icons=true&hide_border=false&custom_title=ItsRealNise%20Github%20Stats&include_all_commits=true&hide=issues&theme=tokyonight" alt="ItsRealNise GitHub Stats" />
 </a>
 <a href="https://github.com/ItsRealNise">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsRealNise&layout=compact&hide_border=false&theme=tokyonight" />
