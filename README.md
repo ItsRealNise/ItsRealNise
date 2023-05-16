@@ -1,12 +1,14 @@
 ![PROFILE VIEWERS](https://gpvc.arturio.dev/ItsRealNise)
 # ItsRealNise
-Hi There 👋, I'm ItsRealNise, You Can Call Me YaN
+Hi There 👋, I'm ItsRealNise, Call Me Yan
+<br>
+PHP, Laravel, React JS, JS, My Skill
 <br>
 <h3>Just a Human</h3>
 
-- 🔭 I’m currently working on **PocketMine Plugins**
+- 🔭 I’m currently working on **Backend Developer**
 
-- 📄 I'm currently learning about **HTML, CSS**
+- 📄 I'm currently learning about **More Backend**
 
 - 📫 How to reach me **yankurniawan60@gmail.com**
 
